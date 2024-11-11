@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fuzailovvv
+- 👋 Hi, I’m Muhammadkomil
 - 👀 I’m interested in 👨‍💻🏓🥊♟
 - 🌱 I’m currently learning Eng , rus
 
