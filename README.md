@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abduboriyabdusamadov66@gmail.com">
+  <a href="mailto:fuzailovvv@gmail.com">
     <img height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/A_A_033">
+  <a href="https://t.me/fuzailovvv">
     <img height="28" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/abdusamadov_033/">
+  <a href="https://www.instagram.com/__fuzailovvv/">
     <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abduboriy-abdusamadov/">
+  <a href="https://www.linkedin.com/in/muhammadkomil-fuzailov-7b048833b/">
     <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -81,8 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gammbity&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
