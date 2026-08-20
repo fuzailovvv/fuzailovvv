@@ -1,7 +1,7 @@
 <h2 align="center">✦ Fuzailov Muhammdkomil ✦</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202023&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202423&descAlign=50&descAlignY=70" />
 </p>
 
 <p align="center">
